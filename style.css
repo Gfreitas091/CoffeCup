@@ -150,7 +150,7 @@ nav {
 }
 
 .about {
-    display: grid;
+    display: flex;
     grid-template-columns: repeat(auto-fit, minmax(50rem,auto));
     align-items: center;
     gap: 1.5rem;
